@@ -10,7 +10,7 @@ Convert latitude,longitude to x,y,z position on a unit sphere.
 var latLonToXyz = require('latlon-to-xyz')
 
 var pos = latLonToXyz(51.507222, -0.1275)
-//[ 0.6224144446694939, 0.7826866171599898, -0.001385057911101041 ]
+//[ 0.6224144446694938, 0.7826866171599899, 0.0013850579111009925 ]
 ```
 
 ## API
