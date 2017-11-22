@@ -1,0 +1,19 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "budo index.js --open --live"
+  },
+  "author": "Marcin Ignac <marcin.ignac@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "pex-cam": "^2.3.2",
+    "pex-context": "^2.0.0-34",
+    "pex-io": "^1.5.3",
+    "pex-math": "^2.0.0",
+    "primitive-cube": "^2.0.1",
+    "primitive-sphere": "^3.0.0"
+  }
+}
